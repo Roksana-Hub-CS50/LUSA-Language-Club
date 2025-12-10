@@ -57,7 +57,7 @@ Advises:
 5. Ethics
 6. Responsibilities to your family, friend, Institution & Society.
 7. Subject Related Expertise (Job Oriented Training)
-8. Sympathy n Empathy to all creathers of this Universe
+8. Sympathy n Empathy to all creatures of this Universe
 9. Stay away from Narcotics.
 10.Enhance your connectivity.
 
@@ -91,6 +91,7 @@ Projects:
 Career:
 
 AWS Solution Architect(design,deploys,and manages scalable,cost-effective cloud infrastructures on Amazon Web Services (AWS) to meet business need.
+
 
 
 
