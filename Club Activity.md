@@ -72,7 +72,7 @@ Others Proposed Clubs: (President, Vice-President, Members)
 7. Debate Club/ Extempore Speech Club
 8. Cultural Club ( Music, Recitation, Dance)
 9. Space and Rocket Science Club
-10. Humanity Club/ Altruism Club
+10. Humanity Club/ Altruism Club/ PET Club
 
 
 
@@ -91,5 +91,6 @@ Projects:
 Career:
 
 AWS Solution Architect(design,deploys,and manages scalable,cost-effective cloud infrastructures on Amazon Web Services (AWS) to meet business need.
+
 
 
