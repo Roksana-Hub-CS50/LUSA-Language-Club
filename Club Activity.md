@@ -23,7 +23,9 @@ iv)	https://www.linkedin.com/
 6. Microsoft Office Excel Worksheet Vs. Google Sheets, Online Spreadsheets Vs. Access Vs. SPSS
 
 
-***** ১৯০১ সালের ১০ই ডিসেম্বর সুইডেনের বিজ্ঞানী আলফ্রেড নোবেলের  নামানুসারে( ও অর্থায়নে) চালু হওয়া পুরস্কার! যুক্তরাষ্ট্রের শিকাগো বিশ্ববিদ্যালয়ের শিক্ষার্থী চ্যান নিং ইয়াং ও সাংদাও লি নামের দুজন শিক্ষার্থীই ১৯৫৭ সালে যৌথভাবে পদার্থবিজ্ঞানে নোবেল পুরস্কার পান। পরবর্তীতে, ১৯৮৩ সালে শিক্ষক এস চন্দ্রশেখর নোবেল পান। বাবা, মা (দুইবার), ২ সন্তান সবাই নোবেলজয়ী/ পুরস্কার পাওয়া  ফ্যামিলি ও আছে! SPAA SPAA SPAA SPAA SPAA SPAA (SPAA Who are they? Why they are famous?)
+***** ১৯০১ সালের ১০ই ডিসেম্বর সুইডেনের বিজ্ঞানী আলফ্রেড নোবেলের  নামানুসারে( ও অর্থায়নে) চালু হওয়া পুরস্কার! যুক্তরাষ্ট্রের শিকাগো বিশ্ববিদ্যালয়ের শিক্ষার্থী চ্যান নিং ইয়াং ও সাংদাও লি নামের দুজন শিক্ষার্থীই ১৯৫৭ সালে যৌথভাবে পদার্থবিজ্ঞানে নোবেল পুরস্কার পান। পরবর্তীতে, ১৯৮৩ সালে শিক্ষক এস চন্দ্রশেখর নোবেল পান। বাবা, মা (দুইবার), ২ সন্তান সবাই নোবেলজয়ী/ পুরস্কার পাওয়া  ফ্যামিলি ও আছে! 
+https://www.nobelprize.org/prizes/lists/all-nobel-prizes/
+SPAA SPAA SPAA SPAA SPAA SPAA (SPAA Who are they? Why they are famous?)
 
 ***** হাই লেভেল ল্যাঙ্গুয়েজ, কম্পাইলার, ইন্টার প্রিটার (দোভাষী হিসেবে কাজ করার জন্য ভাষা জানতে হয়। সে মানুষ হোক বা মেশিন), মেশিন ল্যাঙ্গুয়েজ, ক্লাউড কম্পিউটিং, GUI এগুলো সম্পর্কে লেখ।
 
@@ -87,3 +89,4 @@ Projects:
 Career:
 
 AWS Solution Architect(design,deploys,and manages scalable,cost-effective cloud infrastructures on Amazon Web Services (AWS) to meet business need.
+
